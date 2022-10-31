@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @justinb71
 - 👀 I’m interested in Artificial Inteligence
 - 🌱 I’m currently learning Computer Science at A Level
 
