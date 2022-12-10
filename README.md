@@ -1,13 +1,9 @@
-- 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently studdying A level Computer Science, mathematics, physics and sociology.
+- 👀 I’m interested in Artificial Intelligence and web design.
+- 🌱 I’m currently studying A level Computer Science, Mathematics, Physics and Sociology.
 
-- Programming Languages:
+- Programming Languages I Know:
 
   -Python
   -JavaScript
   -HTML
   -CSS
-<!---
-justinb71/justinb71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
