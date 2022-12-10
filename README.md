@@ -1,5 +1,5 @@
 - 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning Computer Science at A Level
+- 🌱 I’m currently studdying A level Computer Science, mathematics, physics and sociology.
 
 - Programming Languages:
 
